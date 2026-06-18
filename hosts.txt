@@ -1,0 +1,3 @@
+kelas-b-master slots=2
+kelas-b-worker1 slots=2
+kelas-b-worker2 slots=2
